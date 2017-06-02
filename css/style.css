@@ -38,7 +38,7 @@ a:hover {
 }
 
 .cesium-infoBox {
-    width: 320px;
+    width: 1000px 1000px;
     overflow: hidden;
     padding: 0px;
     margin: 0px;
@@ -49,8 +49,8 @@ a:hover {
 }
 
 .cesium-infoBox-visible {
-    width: 320px;
-    overflow: hidden;
+    width: 1000px 1000px;
+    overflow: 1000px;
     padding: 0px;
     margin: 0px;
     z-index: 10001;

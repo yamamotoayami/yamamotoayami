@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CONVERSE.kml</name>
+	<Style id="sh_coverse">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>11.8182</scale>
+			<Icon>
+				<href>../image/coverse.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_coverse">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>10</scale>
+			<Icon>
+				<href>../image/coverse.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_coverse">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_coverse</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_coverse</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>CONVERSE</name>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER MID &amp; OX × BODEGA</name>
+			<description><![CDATA[Place: Boston BODEGA
+
+<a href="https://shop.bdgastore.com">https://shop.bdgastore.com</a>
+
+<img src="http://www.shoesmaster.jp/pub/wp/wp-content/uploads/2013/01/bodega-for-converse-string-first-pro-leather-1-500x303.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-71.05888009999998</longitude>
+				<latitude>42.36008249999999</latitude>
+				<altitude>0</altitude>
+				<heading>-3.180554681463517e-15</heading>
+				<tilt>0</tilt>
+				<range>26818.00706597742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-71.05888009999998,42.3600825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2009-01-01T00:00:00</begin>
+						<end>2010-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>(PRODUCT)RED CHUCK TAYLOR ALL STAR HI</name>
+			<description><![CDATA[Place: Africa
+memo: Global funds for fight AIDS
+<a href="https://red.org">https://red.org</a>
+
+<img src="https://www.freshnessmag.com/.image/t_share/MTM3OTQ2NDExNjQ0ODIzNDAz/converse-productred---leather-jacket-chuck-taylor-all-star-hi--available-now---0.jpg">]]></description>
+			<LookAt>
+
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>34.50852299999985</longitude>
+				<latitude>-8.783195000000021</latitude>
+				<altitude>0</altitude>
+				<heading>3.021526947390341e-14</heading>
+				<tilt>0</tilt>
+				<range>12326102.73067891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>18.84202362465367,3.444005393907196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>CHUCK TAYLOR ALL STAR TYO CUSTOM MADE HI × MITA SNEAKERS</name>
+			<description><![CDATA[Place: Tokyo Mita Sneakers
+
+<a href="http://www.mita-sneakers.co.jp">http://www.mita-sneakers.co.jp</a>
+
+<img src="http://www.mita-sneakers.co.jp/base/img3/converse/201207/cons_allstar_mita_120709-r2.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>139.7744366840678</longitude>
+				<latitude>35.70971039615431</latitude>
+				<altitude>0</altitude>
+				<heading>-6.202043462197681e-09</heading>
+				<tilt>0</tilt>
+				<range>1005.331936785061</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7744366840678,35.70971039615429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER MID × STUSSY NEW YORK</name>
+			<description><![CDATA[Place: STUSSY NY
+<a href="http://www.stussy.com/chapters/stussy-new-york">http://www.stussy.com/chapters/stussy-new-york</a>
+
+<img src="https://www.sneakerfiles.com/wp-content/uploads/2012/08/Release-Reminder-Stussy-New-York-Crew-x-Converse-Pro-Leather-%E2%80%98Patchwork%E2%80%99-.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-74.00239158235104</longitude>
+				<latitude>40.72467059696152</latitude>
+				<altitude>0</altitude>
+				<heading>-1.185534677936886e-07</heading>
+				<tilt>0</tilt>
+				<range>1116.544113285459</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-74.00239158235104,40.72467059696152,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER MID &amp; OX × FOOTPATROL</name>
+			<description><![CDATA[Place: Footpatrol
+
+<img src="https://images.solecollector.com/complex/image/upload/vbge22gy4vat4mi2kq6l.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-0.1355605103970814</longitude>
+				<latitude>51.51426449883257</latitude>
+				<altitude>0</altitude>
+				<heading>-1.396683375652562e-09</heading>
+				<tilt>0</tilt>
+				<range>1003.968691771682</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.1355605103970814,51.51426449883257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER MID &amp; OX × PATTA</name>
+			<description><![CDATA[Place: Patta Neatherlands
+
+<img src="http://www.shoesmaster.jp/pub/wp/wp-content/uploads/2012/11/converse-patta-pro-leather-24.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>4.900947087924052</longitude>
+				<latitude>52.37476285830325</latitude>
+				<altitude>0</altitude>
+				<heading>-3.181999925510773e-08</heading>
+				<tilt>0</tilt>
+				<range>1069.011830563953</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>4.900947087924052,52.37476285830324,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER &amp; OX × CLOT</name>
+			<description><![CDATA[Place: Hogn Kogn
+memo: edition crew...CLOT
+<a href="https://clot.com">https://clot.com</a>
+
+<img src="http://www.gymngina.us/images/large/US_Converse/converse-pro-one-star-clot-x-first-string-leather-apricot-high-top_254_LRG.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>114.1094968166646</longitude>
+				<latitude>22.39642803920488</latitude>
+				<altitude>0</altitude>
+				<heading>5.967678565495613e-08</heading>
+				<tilt>0</tilt>
+				<range>67081.22064894818</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>114.1094968166646,22.39642803920488,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2012-01-01T00:00:00</begin>
+						<end>2013-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>PRO LEATHER &amp; AUCKLAND RACER × ALOHA RAG</name>
+			<description><![CDATA[Place: Aloha Rag Hawaii
+
+<img src="https://www.freshnessmag.com/.image/t_share/MTM2ODM2NDQ3Njc2NTQwNTEx/aloha-rag-x-converse-ar-srpls-label---release-info---0.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-155.6025677682741</longitude>
+				<latitude>19.89719505205027</latitude>
+				<altitude>0</altitude>
+				<heading>0.0004543627883282607</heading>
+				<tilt>0</tilt>
+				<range>1100768.230886759</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-155.6025677682741,19.89719505205027,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<TimeSpan id="ID">
+						<begin>2010-01-01T00:00:00</begin>
+						<end>2011-01-01T00:00:00</end>
+					</TimeSpan>
+			<name>MISSONI</name>
+			<description><![CDATA[Place: Italy
+memo:edition...missoni
+<a href="http://www.missoni.com/experience/en/pages/about-missoni/">http://www.missoni.com/experience/en/pages/about-missoni/</a>
+
+<img src="http://www.hypebeast.com/image/2010/08/missoni-converse-fall2010-collection-2.jpg">]]></description>
+			<LookAt>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>8.779518344875902</longitude>
+				<latitude>45.74253183573754</latitude>
+				<altitude>0</altitude>
+				<heading>-3.260764032440914e-07</heading>
+				<tilt>0</tilt>
+				<range>1025.827910536977</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_coverse</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>8.7795183448759,45.74253183573754,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

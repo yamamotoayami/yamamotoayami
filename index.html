@@ -148,11 +148,11 @@
 
 		//視点を登録：　緯度，経度，注視点の高さ，傾き，視点の高さ
 
-		viewPointsArray[0] = new viewPoints("東京", 35.42, 139.43, 0, -45, 100000);
-		viewPointsArray[1] = new viewPoints("ロンドン", 51.30, 0.07, 0, -89, 100000);
-		viewPointsArray[2] = new viewPoints("ニューヨーク", 40.72, -73.37, 0, -89, 100000);
-	  viewPointsArray[3] = new viewPoints("カリフォルニア", 36.47, -116.25, 0, -89, 1000000);
-		viewPointsArray[4] = new viewPoints("初期視点", 35.654, 139.394, 0, -35, 5000000);
+		viewPointsArray[0] = new viewPoints("東京", 35.42, 139.43, 0, -45, 1000000);
+		viewPointsArray[1] = new viewPoints("ロンドン", 51.30, 0.07, 0, -89, 1000000);
+		viewPointsArray[2] = new viewPoints("ニューヨーク", 40.72, -73.37, 0, -89, 1000000);
+	  viewPointsArray[3] = new viewPoints("カリフォルニア", 36.47, -116.25, 0, -89, 10000000);
+		viewPointsArray[4] = new viewPoints("初期視点", 35.654, 139.394, 0, -35, 50000000);
 
 		//視点メニューを作成
 
@@ -238,7 +238,9 @@
 		//KMLデータを登録．kmzでもOK
 		kmlDataArray[0] = new kmlData("ASICS", 'data/kml/ASICS.kml');
 		kmlDataArray[1] = new kmlData("ADIDAS", 'data/kml/ADIDAS.kml');
-		kmlDataArray[2] = new kmlData("timespan", 'data/kml/timespan.kml');
+		kmlDataArray[2] = new kmlData("timespan", 'data/kml/timespanA.kml');
+		kmlDataArray[3] = new kmlData("CONVERSE", 'data/kml/CONVERSE.kml');
+
 
 		//時間情報入りのKML
 		//kmlDataArray[3] = new kmlData("タイムスパン", 'data/kml/timespanA.kml');

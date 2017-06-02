@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>timespanA.kml</name>
+	<Style id="sh_asics">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>11.8182</scale>
+			<Icon>
+				<href>data/image/asics.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_asics">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_asics</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_asics0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_asics">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>15</scale>
+			<Icon>
+				<href>data/image/asics.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_asics0">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>10</scale>
+			<Icon>
+				<href>data/image/asics.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_asics0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_asics0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_asics</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_asics0">
+		<IconStyle>
+			<color>ccffffff</color>
+			<scale>17.7273</scale>
+			<Icon>
+				<href>data/image/asics.png</href>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>保留</name>
+		<Document>
+			<name>ADIDAS</name>
+			<open>1</open>
+			<Style id="sn_adidas">
+				<IconStyle>
+					<scale>10</scale>
+					<Icon>
+						<href>../image/adidas.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<Style id="sh_adidas">
+				<IconStyle>
+					<scale>1</scale>
+					<Icon>
+						<href>../image/adidas.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<StyleMap id="msn_adidas">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_adidas</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_adidas</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2006-01-01T00:00:00</begin>
+							<end>2007-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>ADICOLOR LO Y1 × TWIST FOR HUF</name>
+				<description><![CDATA[Place: Sanfrancisco
+		memo: Barry McGee(Twist) was born in Sanfrancisco
+
+		<img src="https://sneakerpedia.files.wordpress.com/2012/04/barry-mcgee-for-huf-x-adidas-adicolor-lo-y1-ray-fong-uploaded-by-kid_sneakerness.jpg?w=500&h=340">]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-122.4193933747901</longitude>
+					<latitude>37.77493074619498</latitude>
+					<altitude>0</altitude>
+					<heading>-3.614831529752805e-06</heading>
+					<tilt>0</tilt>
+					<range>29156.67111033642</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-122.4193933747901,37.77493074619497,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2013-01-01T00:00:00</begin>
+							<end>2014-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>SLVR PRIMEKNIT CAMPUS</name>
+				<description><![CDATA[Place: Germany
+		memo: designer...
+		p.25
+
+		<img src="https://s-media-cache-ak0.pinimg.com/564x/8a/22/0b/8a220bffbbdc735f9bdb5dfd18621e22.jpg">DIRK SCHONBERGER]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>10.45152599999998</longitude>
+					<latitude>51.165691</latitude>
+					<altitude>0</altitude>
+					<heading>-3.816665617756219e-14</heading>
+					<tilt>0</tilt>
+					<range>1433437.142405466</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>10.451526,51.16569100000001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>ADIZERO PRIMEKNIT &apos;LONDON OLYMPIC&apos;</name>
+				<description><![CDATA[Place: London p.24
+		<img src="https://www.endclothing.com/media/catalog/product/cache/0/image/1000x/9df78eab33525d08d6e5fb8d27136e95/2/8/28-11-2012_primeknit_london_8_1.jpg">]]></description>
+				<LookAt>
+					<gx:TimeSpan>
+						<begin>2008-01-01T23:59:59Z</begin>
+						<end>2009</end>
+					</gx:TimeSpan>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-0.1355964999999593</longitude>
+					<latitude>51.51423749999999</latitude>
+					<altitude>0</altitude>
+					<heading>-2.784401687037165e-12</heading>
+					<tilt>0</tilt>
+					<range>1000.000000000395</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-0.1373877400210288,51.51582328490311,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2007-01-01T00:00:00</begin>
+							<end>2008-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>CAMPUS 80s × FOOTPATROL</name>
+				<description><![CDATA[Place: London p.22
+		<img src="http://www.footpatrol.co.uk/templates/footpatrol.co.uk/_images/blog/_2013/Campus%20Primeknit/Campus-80s-Primeknit-1.jpg">]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-0.1355964999999792</longitude>
+					<latitude>51.51423749999999</latitude>
+					<altitude>0</altitude>
+					<heading>1.951829378955468e-12</heading>
+					<tilt>0</tilt>
+					<range>999.9999999988456</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-0.1355964999999792,51.51423749999999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2011-01-01T00:00:00</begin>
+							<end>2012-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>SUPERSTAR 80s × RUN-DMC</name>
+				<description><![CDATA[<img src="https://images.solecollector.com/complex/image/upload/soi3fd6xvohdaucmssih.jpg">]]></description>
+				<LookAt>
+					<longitude>-74.00594129999995</longitude>
+					<latitude>40.7127837</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-14</heading>
+					<tilt>0</tilt>
+					<range>109878.9082657558</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-74.00655112047595,40.71971653317858,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2011-01-01T00:00:00</begin>
+							<end>2012-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>SUPERSTAR 80s &apos;B-SIDE&apos; × A BATHING APE</name>
+				<description><![CDATA[<img src="https://newsneakernews-wpengine.netdna-ssl.com/wp-content/uploads/2011/07/bape-adidas-06.jpg">
+		場所:BAPE STORE HARAJUKU
+		p.20
+
+		]]></description>
+				<LookAt>
+
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>139.7090471732144</longitude>
+					<latitude>35.66783430531382</latitude>
+					<altitude>0</altitude>
+					<heading>0.00904596899724963</heading>
+					<tilt>25.10688105637596</tilt>
+					<range>198.1010988361473</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>139.7085181239817,35.66795852746336,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2007-01-01T00:00:00</begin>
+							<end>2008-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>SUPERSKATE × CROOKED TONGUES
+		</name>
+				<description><![CDATA[place: Thailand Bangkok
+		p.13
+		<img src="https://klekt.s3.amazonaws.com/660147.jpg">
+		]]></description>
+				<LookAt>
+
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>100.5528733113566</longitude>
+					<latitude>13.71627239442791</latitude>
+					<altitude>0</altitude>
+					<heading>0.01205880682150278</heading>
+					<tilt>2.917992496621551</tilt>
+					<range>12617.80679100835</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>100.5471941443884,13.7384414736933,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2008-01-01T00:00:00</begin>
+							<end>2009-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>TOP TEN
+
+		UNDEFEATED × ESTEVAN ORIOL &apos;1979&apos;</name>
+				<description><![CDATA[place: Undefeated Los Angeles
+		p.12
+		<img src="https://www.freshnessmag.com/.image/t_share/MTM1OTcwMTkxOTYzMjQ0NTU0/adidas-originals-x-undftd-x-estevan-oriol---1979--top-ten---0.jpg">]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-118.3443724359299</longitude>
+					<latitude>34.07311155716523</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>45</tilt>
+					<range>1000</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-118.3443724359299,34.07311155716523,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2009-01-01T00:00:00</begin>
+							<end>2010-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>FORUM MID ALL-STAR WEEKEND ARIZONA 2009</name>
+				<description><![CDATA[place: ARIZONA p.14
+		<img src="http://www.sneakerfiles.com/wp-content/uploads/2009/02/adidas-forum-mid-nba-all-star-game-2009-eastern-conference-1.jpg">]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-111.0937311</longitude>
+					<latitude>34.0489281</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-14</heading>
+					<tilt>0</tilt>
+					<range>950921.4007575768</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-111.1178975930074,34.14892448550737,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2006-01-01T00:00:00</begin>
+							<end>2007-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>GAZELLE &apos;BERLIN&apos; × NEIGHBORHOOD</name>
+				<description><![CDATA[Place: NEIGHBORHOOD HARAJUKU
+		memo: designer...<img
+		 src="http://www.todayandtomorrow.net/wp-content/uploads/2006/08/adidas_neighborhood02.jpg">
+
+		]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>13.40495400000002</longitude>
+					<latitude>52.5200066</latitude>
+					<altitude>0</altitude>
+					<heading>-1.113194138512231e-13</heading>
+					<tilt>0</tilt>
+					<range>88241.20264726102</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>139.7067194444444,35.66917222222222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>ZX500 × SHANIQWA JARVIS</name>
+				<description><![CDATA[Place: London
+		memo: event...London Olympic 2012
+		            edition...Shaniqwa Jarvis
+
+		<img src="https://sneakerlaundry.files.wordpress.com/2012/06/adidas-shaniqua-jarvis-consortium-zx-500-1-1.jpg?w=1400">]]></description>
+				<LookAt>
+
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-0.1277261357606929</longitude>
+					<latitude>51.50734749912252</latitude>
+					<altitude>0</altitude>
+					<heading>8.525364089101088e-06</heading>
+					<tilt>0</tilt>
+					<range>45554.73846727549</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-0.1015639614312369,51.49603896866515,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2007-01-01T00:00:00</begin>
+							<end>2008-01-01T00:00:00</end>
+						</TimeSpan>
+				<name>RMX EQT SUPPORT RUNNER × IRAK</name>
+				<description><![CDATA[Place: NY Alife Rivington Club
+		memo: edition... IRAK( working at NY)
+		            <a href="https://hypebeast.com/about">https://hypebeast.com/about</a>
+		           sold at alife rivington club
+
+		<img src="https://sneakernews.com/wp-content/uploads/2012/09/irak-adidas.jpg">]]></description>
+				<LookAt>
+					<gx:ViewerOptions>
+						<gx:option name="historicalimagery"></gx:option>
+						<gx:option enabled="0" name="sunlight"></gx:option>
+						<gx:option enabled="0" name="streetview"></gx:option>
+					</gx:ViewerOptions>
+					<longitude>-73.9852896737101</longitude>
+					<latitude>40.71930611373629</latitude>
+					<altitude>0</altitude>
+					<heading>-3.272696532161581e-06</heading>
+					<tilt>23.04501181158207</tilt>
+					<range>303.2904155147762</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_adidas</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-73.9852896737101,40.71930611373629,0</coordinates>
+				</Point>
+			</Placemark>
+		</Document>
+		<Folder>
+			<name>ASICS.kml</name>
+			<Style id="sh_asics">
+				<IconStyle>
+					<color>ccffffff</color>
+					<scale>11.8182</scale>
+					<Icon>
+						<href>../image/asics.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<StyleMap id="msn_asics">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_asics</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_asics0</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sn_asics">
+				<IconStyle>
+					<color>ccffffff</color>
+					<scale>15</scale>
+					<Icon>
+						<href>../image/asics.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<Style id="sn_asics0">
+				<IconStyle>
+					<color>ccffffff</color>
+					<scale>10</scale>
+					<Icon>
+						<href>../image/asics.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<StyleMap id="msn_asics0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_asics0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_asics</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="sh_asics0">
+				<IconStyle>
+					<color>ccffffff</color>
+					<scale>17.7273</scale>
+					<Icon>
+						<href>../image/asics.png</href>
+					</Icon>
+				</IconStyle>
+				<ListStyle>
+				</ListStyle>
+			</Style>
+			<Folder>
+				<name>ASICS</name>
+				<open>1</open>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2013-01-01T00:00:00</begin>
+								<end>2014-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>ONITSUKA TIGER FABRE BL-L &apos;PANDA&apos; × MITA SNEAKERS</name>
+					<description><![CDATA[Place: TOKYO
+		memo:edition... Mita Sneakers
+
+		<img src="http://moonitem.com/sneakers/images/2012/OnitsukaTiger_TH1S4Q-9001.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>139.7744367055557</longitude>
+						<latitude>35.70971040004314</latitude>
+						<altitude>0</altitude>
+						<heading>-6.493102382207769e-11</heading>
+						<tilt>0</tilt>
+						<range>1002.591051200848</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>139.7744367055557,35.70971040004314,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2012-01-01T00:00:00</begin>
+								<end>2013-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-LYTE III &apos;SELVEDGE DENIM&apos; × RONNIE FIEG</name>
+					<description><![CDATA[Place: KITH NYC(by Ronnie Fieg)
+		2012
+
+		<img src="https://newsneakernews-wpengine.netdna-ssl.com/wp-content/uploads/2012/12/selvedge-denim-ronnie-fieg-asics-gel-lyte-iii.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-73.99552311597665</longitude>
+						<latitude>40.72647557552465</latitude>
+						<altitude>0</altitude>
+						<heading>-7.243653366498083e-05</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000824</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-73.99547316156247,40.72650501998777,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2012-01-01T00:00:00</begin>
+								<end>2013-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GT-Ⅱ &apos;OLYMPIC TEAM NETHERLANDS&apos;</name>
+					<description><![CDATA[Place: Netherlands
+		2012
+		<img src="https://images.sneakersaddict.com/tb/660/397/images/ASICS-X-Olympics-GT-II-6.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>5.291265999999857</longitude>
+						<latitude>52.13263300000003</latitude>
+						<altitude>0</altitude>
+						<heading>-4.118818312495252e-13</heading>
+						<tilt>0</tilt>
+						<range>706105.0830613505</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>5.291265999999936,52.13263300000002,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2011-01-01T00:00:00</begin>
+								<end>2012-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-LYTE Ⅲ × HANON &apos;WILDCATS&apos;</name>
+					<description><![CDATA[Place: Aberdeen
+		2011
+
+		<img src="https://s-media-cache-ak0.pinimg.com/736x/f4/a6/ee/f4a6eee0ce3a0ed9124649d066dc6346.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-2.094235823865515</longitude>
+						<latitude>57.14969018971058</latitude>
+						<altitude>0</altitude>
+						<heading>3.189880260014343e-06</heading>
+						<tilt>0</tilt>
+						<range>20118.026796696</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-2.094235823865515,57.14969018971057,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2008-01-01T00:00:00</begin>
+								<end>2009-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-LYTE III × ALIFE RIVINGTON CLUB</name>
+					<description><![CDATA[Place: Alife Rivington Club
+		2008
+
+		<img src="https://www.sneakerfiles.com/wp-content/uploads/2008/05/alifeasicsmain.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-73.9852932</longitude>
+						<latitude>40.71930200000001</latitude>
+						<altitude>0</altitude>
+						<heading>-7.951386703658792e-15</heading>
+						<tilt>0</tilt>
+						<range>999.9999999994479</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-73.9852932,40.71930200000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2010-01-01T00:00:00</begin>
+								<end>2011-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-LYTE III × SLAM JAM &apos;5TH DIMENSION&apos;</name>
+					<description><![CDATA[Place: SLAM JAM Milano
+
+		<a href="http://www.slamjam.com/company/">http://www.slamjam.com/company/</a>
+
+		<img src="https://pbs.twimg.com/media/CFslDhAVIAAfPDD.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>9.182218100000021</longitude>
+						<latitude>45.4714701</latitude>
+						<altitude>0</altitude>
+						<heading>-6.202081628853859e-14</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000362</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>9.182218100000021,45.4714701,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2012-01-01T00:00:00</begin>
+								<end>2013-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GT-II × SNS &apos;SEVENTH SEAL&apos;</name>
+					<description><![CDATA[Place: Sneakersnstuff Sweden
+
+		<a href="https://www.sneakersnstuff.com/en/content/view/about">https://www.sneakersnstuff.com/en/content/view/about</a>
+		<img src="https://images.solecollector.com/complex/image/upload/hv9oi77bqcttpfx9jql0.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>13.41081505509756</longitude>
+						<latitude>52.52945967597019</latitude>
+						<altitude>0</altitude>
+						<heading>-1.359538912477497e-08</heading>
+						<tilt>0</tilt>
+						<range>1019.030100795784</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>13.41081505509756,52.52945967597018,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2004-01-01T00:00:00</begin>
+								<end>2005-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GT-II PROPER</name>
+					<description><![CDATA[Place: Proper Long Beach
+
+		<a href="https://properlbc.com">https://properlbc.com</a>
+
+		<img src="http://images.bigcartel.com/product_images/186444845/image.jpg?auto=format&fit=max&h=1000&w=1000">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-118.1874538941343</longitude>
+						<latitude>33.76729958367489</latitude>
+						<altitude>0</altitude>
+						<heading>0.002222179960365492</heading>
+						<tilt>0</tilt>
+						<range>1010.364143123844</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-118.1874538941343,33.76729958367489,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2012-01-01T00:00:00</begin>
+								<end>2013-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-SAGA II × FOOTPATROL</name>
+					<description><![CDATA[Place: Footpatrol London
+
+		<a href="http://www.footpatrol.co.uk/shop">http://www.footpatrol.co.uk/shop</a>
+
+		<img src="http://www.eukicks.com/wp-content/uploads/2012/10/Asics-Gel-Lyte-Saga-III-Footpatrol-Fetaure-Sneaker-Boutique-8288.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-0.1355604999999882</longitude>
+						<latitude>51.5142645</latitude>
+						<altitude>0</altitude>
+						<heading>4.422486740324671e-12</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000464</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-0.1355604999999882,51.51426450000001,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<TimeSpan id="ID">
+								<begin>2007-01-01T00:00:00</begin>
+								<end>2008-01-01T00:00:00</end>
+							</TimeSpan>
+					<name>GEL-LYTE III × PATTA</name>
+					<description><![CDATA[Place: Patta Netherlands
+		<a href="https://www.patta.nl">https://www.patta.nl</a>
+
+		<img src="https://sneakerpedia.files.wordpress.com/2012/06/patta-x-asics-gel-lyte-iii.jpg">]]></description>
+					<LookAt>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>4.900949700000008</longitude>
+						<latitude>52.37476329999998</latitude>
+						<altitude>0</altitude>
+						<heading>-1.200659392252478e-13</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000312</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_asics0</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>4.900949700000008,52.37476329999998,0</coordinates>
+					</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

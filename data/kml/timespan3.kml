@@ -40,6 +40,10 @@
 		<Folder>
 			<name>CONVERSE</name>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER MID &amp; OX × BODEGA</name>
 				<description><![CDATA[Place: Boston BODEGA
 
@@ -67,6 +71,10 @@
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2009-01-01T00:00:00</begin>
+							<end>2010-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>(PRODUCT)RED CHUCK TAYLOR ALL STAR HI</name>
 				<description><![CDATA[Place: Africa
 memo: Global funds for fight AIDS
@@ -74,10 +82,7 @@ memo: Global funds for fight AIDS
 
 <img src="https://www.freshnessmag.com/.image/t_share/MTM3OTQ2NDExNjQ0ODIzNDAz/converse-productred---leather-jacket-chuck-taylor-all-star-hi--available-now---0.jpg">]]></description>
 				<LookAt>
-					<gx:TimeSpan>
-						<begin>2016-12-30T23:59:59Z</begin>
-						<end>2016-12-31</end>
-					</gx:TimeSpan>
+
 					<gx:ViewerOptions>
 						<gx:option name="historicalimagery"></gx:option>
 						<gx:option enabled="0" name="sunlight"></gx:option>
@@ -98,6 +103,10 @@ memo: Global funds for fight AIDS
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>CHUCK TAYLOR ALL STAR TYO CUSTOM MADE HI × MITA SNEAKERS</name>
 				<description><![CDATA[Place: Tokyo Mita Sneakers
 
@@ -125,6 +134,10 @@ memo: Global funds for fight AIDS
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER MID × STUSSY NEW YORK</name>
 				<description><![CDATA[Place: STUSSY NY
 <a href="http://www.stussy.com/chapters/stussy-new-york">http://www.stussy.com/chapters/stussy-new-york</a>
@@ -151,6 +164,10 @@ memo: Global funds for fight AIDS
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER MID &amp; OX × FOOTPATROL</name>
 				<description><![CDATA[Place: Footpatrol
 
@@ -176,6 +193,10 @@ memo: Global funds for fight AIDS
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER MID &amp; OX × PATTA</name>
 				<description><![CDATA[Place: Patta Neatherlands
 
@@ -201,6 +222,10 @@ memo: Global funds for fight AIDS
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER &amp; OX × CLOT</name>
 				<description><![CDATA[Place: Hogn Kogn
 memo: edition crew...CLOT
@@ -228,6 +253,10 @@ memo: edition crew...CLOT
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2012-01-01T00:00:00</begin>
+							<end>2013-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>PRO LEATHER &amp; AUCKLAND RACER × ALOHA RAG</name>
 				<description><![CDATA[Place: Aloha Rag Hawaii
 
@@ -253,6 +282,10 @@ memo: edition crew...CLOT
 				</Point>
 			</Placemark>
 			<Placemark>
+				<TimeSpan id="ID">
+							<begin>2010-01-01T00:00:00</begin>
+							<end>2011-01-01T00:00:00</end>
+						</TimeSpan>
 				<name>MISSONI</name>
 				<description><![CDATA[Place: Italy
 memo:edition...missoni
